@@ -28,15 +28,6 @@ I build hands-on projects that connect user-facing applications with data pipeli
 
 **Storage and services:** MongoDB Atlas, PostgreSQL, SQLite, Amazon Web Services
 
-## AI / ML work
-
-| Domain | Project evidence |
-|---|---|
-| AI study assistant | Croc supports a keyword fallback or optional Amazon Bedrock replies with MCP tool use. |
-| Generative AI for data | HackUTD2025 includes a Gemini-backed real-estate insight summarizer. |
-| Image classification | The malware study compares whole-image and multi-region CNN designs for grayscale executable images. |
-| Streaming analytics | CryptoFlow includes Spark Structured Streaming and a separate Spark MLlib price-direction experiment. |
-
 ## Featured projects
 
 <details>
