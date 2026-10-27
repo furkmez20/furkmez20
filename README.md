@@ -158,10 +158,6 @@ exploring:
 
 ## Connect
 
-<p align="center">
-  <a href="https://github.com/furkmez20"><img src="https://img.shields.io/badge/GitHub-furkmez20-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-</p>
-
 <div align="center">
   <sub>Build with curiosity. Make the useful thing clear.</sub>
 </div>
