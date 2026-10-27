@@ -64,7 +64,6 @@ Manage saved credentials behind account login and TOTP or email one-time codes. 
 |---|---|---|---|---|---|
 | Python, Flask, SQLAlchemy, SQLite, Fernet, WTForms | Local web app | No benchmark published | Password hashing, MFA, and encrypted credential data; learning project, not production validated | Save and manage credential records | [VaultGuardian](https://github.com/furkmez20/VaultGuardian) |
 
-Demo: no public deployment listed.
 
 </details>
 
@@ -113,14 +112,6 @@ Compares a whole-image CNN, an improved CNN, and a multi-region CropCNN on grays
 | Data engineering | Kafka and Spark streaming into MongoDB Atlas, with a Streamlit dashboard. |
 | AI / ML | Bedrock and Gemini integrations, plus CNN and Spark MLlib experiments. |
 | Application security | MFA and encrypted credential storage in VaultGuardian; JWT validation in HackUTD2025. |
-
-## Project outcomes
-
-| Project | Documented outcome |
-|---|---|
-| Malware CNN study | CropCNN reports 93.75% test accuracy and a 0.9352 macro F1-score in the included project summary. |
-| CryptoFlow | Public Streamlit dashboard for five cryptocurrency markets. |
-| Crocademy / StudyPilot | Shared persistent state and MCP actions for study planning and focus workflows. |
 
 ## GitHub analytics
 
