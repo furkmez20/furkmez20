@@ -135,18 +135,6 @@ Demo: no public deployment listed.
   <img src="https://streak-stats.demolab.com?user=furkmez20&hide_border=true&background=0d1117&ring=8b5cf6&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=e5e7eb&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub contribution streak" />
 </p>
 
-## GitHub trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=furkmez20&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
-</p>
-
-## Contribution activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=furkmez20&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
-</p>
-
 ## Contribution snake
 
 <picture>
