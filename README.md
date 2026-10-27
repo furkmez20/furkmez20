@@ -7,9 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1100&color=C4B5FD&center=true&vCenter=true&width=650&lines=Building+useful+software;Exploring+AI+and+machine+learning;Connecting+data+pipelines+to+apps" alt="Rotating project themes" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-furkmez20-181717?style=for-the-badge&logo=github)](https://github.com/furkmez20)
-![Profile views](https://komarev.com/ghpvc/?username=furkmez20&style=for-the-badge&color=6d28d9)
-![Followers](https://img.shields.io/github/followers/furkmez20?style=for-the-badge&color=5b21b6)
-![Stars](https://img.shields.io/github/stars/furkmez20?style=for-the-badge&color=7c3aed)
 
 </div>
 
