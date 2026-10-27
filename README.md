@@ -103,8 +103,6 @@ Compares a whole-image CNN, an improved CNN, and a multi-region CropCNN on grays
 |---|---|---|---|---|---|
 | Python, TensorFlow/Keras, Google Colab | Limited experimental dataset | 93.75% reported test accuracy for CropCNN | Educational study, not a production detector | Compares three image-classification architectures | [Study repository](https://github.com/furkmez20/Multi-Model-CNN-Study-for-Malware-Detection) |
 
-Demo: no public deployment listed.
-
 </details>
 
 ## Project experience
@@ -143,18 +141,6 @@ Demo: no public deployment listed.
   <img alt="Animated contribution graph snake" src="https://raw.githubusercontent.com/furkmez20/furkmez20/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-## Current focus
-
-```yaml
-building:
-  - Study planning and voice-assisted task workflows
-  - Streaming data dashboards
-  - Secure web application prototypes
-exploring:
-  - Tool-using AI assistants
-  - CNN approaches to image-based classification
-  - Data-backed application design
-```
 
 ## Connect
 
